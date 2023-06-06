@@ -1,0 +1,42 @@
+/* a {
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    font-size: 32px;
+    color: tomato;
+} */
+
+/* a,
+h1 {
+    color: red;
+}
+
+p a {
+    color: blue;
+} */
+
+/* classes . id # -> classes podem se repetir */
+
+/* id */
+#introducao {
+color: gold;
+}
+
+/* classe */
+.codigo {
+    color: blue;
+}
+
+.azul {
+    color: blue;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.grande {
+    font-size: 32px;
+}
