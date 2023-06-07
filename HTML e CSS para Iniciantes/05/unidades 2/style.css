@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+
+section {
+    width: 200px;
+    background: tomato;
+}
+
+div {
+    background: lightblue;
+    /* height: 100vh; */
+    height: 100%;
+    /* width: 50%; */
+    width: calc(100vw/5);
+    /* width: 50vw; */
+}
